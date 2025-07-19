@@ -21,3 +21,16 @@ python eval.py <output logs directory name> <target final model path>
 ## Output
 
 Our final model and result gif are saved to logs/final_model.
+
+### Final Test Gif
+
+The gameplay that our agent wins against the baseline model.
+
+![gif](logs/final_model/test.gif)
+
+
+### Final Moment
+
+The moment that our agent wins against the baseline model.
+
+![png](logs/final_model/finalmoment.png)
