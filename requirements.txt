@@ -1,0 +1,7 @@
+jax
+numpy
+neat-python
+opencv-python
+graphviz
+flax
+evojax
